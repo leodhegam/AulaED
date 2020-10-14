@@ -1,0 +1,35 @@
+{
+  "name": "code",
+  "version": "1.0.0",
+  "description": "Estruturas de Dados",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "docs": "jsdoc -c jsdoc.json"
+  },
+  "keywords": [
+    "tads",
+    "eaj",
+    "ufrn",
+    "data structure"
+  ],"moduleFileExtensions": "['js', 'json', 'jsx', 'ts', 'tsx', 'node']",
+  "author": "taniro",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/core": "^7.11.6",
+    "@babel/plugin-proposal-class-properties": "^7.10.4",
+    "@babel/preset-env": "^7.11.5",
+    "@types/jest": "^25.2.3",
+    "babel-jest": "^25.5.1",
+    "jest": "^25.5.4",
+    "jsdoc": "^3.6.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taniro/AulaED.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taniro/AulaED/issues"
+  },
+  "homepage": "https://github.com/taniro/AulaED#readme"
+}
